@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '34340'
     url: http://www.gutenberg.org/2009/agents/34340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30058#The-Road-to-Independence--Virginia-1763-1783
 gutenberg_issued: '2009-09-22'
 gutenberg_type: Text
 identifiers:
