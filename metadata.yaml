@@ -1,0 +1,26 @@
+_repo: The-Road-to-Independence--Virginia-1763-1783_30058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Virginia. History, Government, and Geography Service
+    gutenberg_agent_id: '34340'
+    url: http://www.gutenberg.org/2009/agents/34340
+description: ''
+gutenberg_issued: '2009-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- History -- Colonial period, ca. 1600-1775 -- Study and teaching
+  (Secondary)'
+- !lcc 'F206'
+- !lcsh 'Virginia -- History -- Revolution, 1775-1783 -- Study and teaching (Secondary)'
+title: 'The Road to Independence: Virginia 1763-1783'
+url: http://www.gutenberg.org/ebooks/30058
